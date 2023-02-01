@@ -1,0 +1,8 @@
+Dont track venv paths
+*/.venv
+
+*.code-workspace
+
+.env
+*.env
+*.env.*
